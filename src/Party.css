@@ -1,0 +1,30 @@
+.member-image {
+    max-width: 250px;
+    border: 1px solid rgba(22, 71, 206, 0.7);
+    border-radius: 10px;
+    max-height: 300px;
+}
+
+.member-name {
+    font-size: 2em;
+    margin: 10px;
+    color: #fff;
+    max-width: 300px;
+}
+
+#member-status {
+    font-size: 1.25em;
+    margin: 10px;
+}
+
+.Alive {
+    color: green;
+}
+
+.party-member {
+    border: 1px solid #fff;
+    width: fit-content;
+    padding: 10px 20px;
+    margin: 20px;
+    width: 250px;
+}
