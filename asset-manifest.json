@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Gray-Jedi/static/css/main.1ab7fbf0.css",
+    "main.js": "/Gray-Jedi/static/js/main.1badcde6.js",
+    "static/js/453.3566a2b0.chunk.js": "/Gray-Jedi/static/js/453.3566a2b0.chunk.js",
+    "static/media/Overlord_Battalion_.xlsx": "/Gray-Jedi/static/media/Overlord_Battalion_.3f533af4644f62b21158.xlsx",
+    "static/media/logo.svg": "/Gray-Jedi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Gray-Jedi/index.html",
+    "main.1ab7fbf0.css.map": "/Gray-Jedi/static/css/main.1ab7fbf0.css.map",
+    "main.1badcde6.js.map": "/Gray-Jedi/static/js/main.1badcde6.js.map",
+    "453.3566a2b0.chunk.js.map": "/Gray-Jedi/static/js/453.3566a2b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab7fbf0.css",
+    "static/js/main.1badcde6.js"
+  ]
+}
