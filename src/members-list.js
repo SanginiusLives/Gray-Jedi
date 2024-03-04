@@ -11,7 +11,7 @@ const partyMembers = [{
   {
     name: "Boris",
     status: "Alive",
-    imgLink: ""
+    imgLink: "https://media.discordapp.net/attachments/1203899847023919135/1214002457852510248/chava_7d8c7c10.jpeg?ex=65f786e5&is=65e511e5&hm=51abcfa361e9350922a76dfa4ee5159b6441eb3f3cdb8e2529765c29737082e3&=&format=webp&width=1121&height=631"
   },
   {
     name: "Haedon",
